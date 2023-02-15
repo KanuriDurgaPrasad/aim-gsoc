@@ -1,0 +1,37 @@
+[33mcommit ea63999cadb0903b106017d2055d02780abccd20[m[33m ([m[1;36mHEAD -> [m[1;32mfix-addition[m[33m)[m
+Author: KanuriDurgaPrasad <k.durgaprasad2382@gmail.com>
+Date:   Thu Feb 16 01:31:02 2023 +0530
+
+    Addition fix
+    
+    Fix the error of addition numbers
+
+[33mcommit 0a04da0d67b7b14a9caa578f93cef8ce2860134b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/fix-addition[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Nirmal Manoj <nimmumanoj@gmail.com>
+Date:   Wed Jan 25 14:59:37 2023 +0530
+
+    Create PR template
+
+[33mcommit f5f4509b15467a2075eb89fd6878650384f2037c[m
+Author: Nirmal Manoj <nimmumanoj@gmail.com>
+Date:   Wed Jan 25 14:41:29 2023 +0530
+
+    Update issue templates
+
+[33mcommit b03d882ec3d23d824d20c20c996d172c7dda5d90[m
+Author: Nirmal Manoj <nimmumanoj@gmail.com>
+Date:   Wed Jan 25 14:21:42 2023 +0530
+
+    Add simple tasks
+
+[33mcommit 6a58f51c79f91db81a21a66c0e3971551f0635e4[m
+Author: Nirmal Manoj <nimmumanoj@gmail.com>
+Date:   Wed Jan 25 14:14:26 2023 +0530
+
+    updated readme
+
+[33mcommit 07ad0bc04bc9b9bea796d95181f7899068575ff4[m
+Author: Nirmal Manoj <nimmumanoj@gmail.com>
+Date:   Wed Jan 25 14:03:02 2023 +0530
+
+    Initial commit
